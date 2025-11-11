@@ -1,7 +1,10 @@
 # 🧑‍💻 Aprendendo JavaScript com Alura
 
+[Acessar demonstração Online](https://jogo-3wrkivwc0-kauanterraos-projects.vercel.app)
 
 Este repositório contém os exercícios e projetos desenvolvidos durante o curso de **Lógica de Programação: explore funções e listas** da [Alura](https://www.alura.com.br/).
+
+---
 
 ## ✏️ Conteúdo abordado
 
@@ -12,12 +15,14 @@ Este repositório contém os exercícios e projetos desenvolvidos durante o curs
 - Funções e escopos
 - Manipulação de DOM
 
+---
 
 ## 💼 Objetivo do projeto
 
 
 Este projeto é um jogo interativo de adivinhação de números, desenvolvido como parte do curso de JavaScript da Alura. O jogador deve tentar adivinhar o número secreto, que é gerado aleatoriamente entre 1 e 10. A cada tentativa, o jogo informa se o número é maior ou menor, até que o jogador acerte. Ao final, o número de tentativas é exibido e narrado pelo navegador.
 
+---
 
 ## 🔊 Narrador embutido
 
@@ -29,6 +34,7 @@ Ideal para acessibilidade e uma experiência mais interativa!
 speechSynthesis.speak(new SpeechSynthesisUtterance("Bem-vindo ao jogo!")); 
 ```
 
+---
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -38,6 +44,7 @@ speechSynthesis.speak(new SpeechSynthesisUtterance("Bem-vindo ao jogo!"));
 - VS Code
 - Git & GitHub
 
+---
 
 ## 👨‍💻 Autor
 
